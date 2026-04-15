@@ -1,4 +1,5 @@
 # SQL Analysis of Inbound Tourism in Japan
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 This project analyzes inbound tourism trends in Japan using SQL and Python.
 
 ## Overview
